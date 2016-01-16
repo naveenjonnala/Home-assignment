@@ -4,10 +4,22 @@ body{ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;font-si
 .outerContainer{ width:900px; margin:0 auto;overflow: hidden; background:#000;}
 .positionLeft{float:left;}
 .positionRight{float:right;}
+#clock{text-align: center;
+padding-top: 15px;
+font-size: 25px;
+    font-family:cursive;
+    margin-left: 400px;
+    margin-right: 390px;
+background-clip: padding-box;}
 .headerText{ margin-left: 150px; margin-top: 60px; font-size:25px;}
 .rightHeader{ text-align:center; margin-top: 45px; margin-right: 10px;}
 .rightHeaderImg img{padding-right: 5px;padding-top: 5px;}
 .headerNav{ float:left; margin-top: 32px;margin-left: 20px;}
+.text{position:relative;
+bottom:30px;
+left:0px;
+color: white;
+visibility:hidden;}
 .headerNav a{  text-decoration:none; background:#303030; color:#fff;  font-size: 13px;font-weight: bold;padding: 7px 29px;} 
 .headerNav a:hover{ background:#181a26;}
 .header{height: 140px;}
