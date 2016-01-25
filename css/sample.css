@@ -23,7 +23,8 @@ visibility:hidden;}
 .headerNav a{  text-decoration:none; background:#303030; color:#fff;  font-size: 13px;font-weight: bold;padding: 7px 29px;} 
 .headerNav a:hover{ background:#25383C;}
 .header{height: 140px;}
-.mainPage{ clear:both; margin:70px 0; background:#181a26; min-height:400px; margin-bottom:5px;}
+.mainPage{ clear:both; margin:70px 0 0 0; background:#181a26; min-height:400px; margin-bottom:5px;}
 .selected{ font-weight:bold !important; background:#181a26 !important; color:blue !important;}
 .footer{margin:12px; font-size:10px;}
 .footer a{padding:0px 5px; color:#fff; border-right:1px solid #fff; text-decoration:none;}
+.grayscale{margin: 55px 55px;}
